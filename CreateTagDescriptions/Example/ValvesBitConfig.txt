@@ -1,0 +1,53 @@
+slot 0
+.0 Manual ON
+.1 Manual OFF
+.2 Valve Auto
+.3 InterLock
+.4 SafetyLock
+.5 Spare
+.6 Spare
+.7 Spare
+.8 Spare
+.9 Spare
+.10 Output
+.11 Opened
+.12 Closed
+.13 Not Opening Alarm
+.14 Not Closing Alarm
+.15 Spare
+
+slot 1
+.0 Manual ON
+.1 Manual OFF
+.2 Valve Auto
+.3 Interlock
+.4 Safetylock
+.5 Spare
+.6 Spare
+.7 Lower Seat Acitve
+.8 Spare
+.9 Spare
+.10 Lower Seat Output
+.11 Lifted
+.12 Is Not Lifted
+.13 Lower Seat Not Lifting Alarm
+.14 Lower Lift Off Alarm
+.15 Spare
+
+slot 2
+.0 Manual ON
+.1 Manual OFF
+.2 Valve Auto
+.3 Interlock
+.4 Safetylock
+.5 Spare
+.6 Spare
+.7 Upper Seat Acitve
+.8 Spare
+.9 Spare
+.10 Upper Seat Output
+.11 Lifted
+.12 Is Not Lifted
+.13 Upper Seat Not Lifting Alarm
+.14 Upper Lift Off Alarm
+.15 Spare

@@ -1,0 +1,499 @@
+﻿XV441-05 - TK441 Discharge Valve,XVCW[003
+XV441-30 - TK441 Inlet Valve,XVCW[004
+XV441-31 - TK441 Inlet Drain Valve,XVCW[005
+XV442-05 - TK442 Discharge Valve,XVCW[006
+XV442-30 - TK442 Inlet Valve,XVCW[007
+XV442-31 - TK442 Inlet Drain Valve,XVCW[008
+XV443-05 - TK443 Discharge Valve,XVCW[009
+XV443-30 - TK443 Inlet Valve,XVCW[010
+XV443-31 - TK443 Inlet Drain Valve,XVCW[011
+XV444-05 - TK444 Discharge Valve,XVCW[012
+XV444-30 - TK444 Inlet Valve,XVCW[013
+XV444-31 - TK444 Inlet Drain Valve,XVCW[014
+XV445-05 - TK445 Discharge Valve,XVCW[015
+XV445-30 - TK445 Inlet Valve,XVCW[016
+XV445-31 - TK445 Inlet Drain Valve,XVCW[017
+XV446-05 - TK446 Discharge Valve,XVCW[018
+XV446-30 - TK446 Inlet Valve,XVCW[019
+XV446-31 - TK446 Inlet Drain Valve,XVCW[020
+XV218-21 - Brine valve on VM4 Header 1,XVCW[021
+XV218-22 - Brine valve on VM4 Header 2,XVCW[022
+XV315-21 - VM4 Header 1 Valve for TK315 product,XVCW[023
+XV315-22 - VM4 Header 2 Valve for TK315 product,XVCW[024
+XV313-21 - VM4 Header 1 Valve for TK313 product,XVCW[025
+XV313-22 - VM4 Header 2 Valve for TK313 product,XVCW[026
+XV201-21 - Poly 7 (T201) valve on VM4 Header 1,XVCW[027
+XV201-22 - Poly 7 (T201) valve on VM4 Header 2,XVCW[028
+XV314-21 - VM4 Header 1 Valve for TK314 product,XVCW[029
+XV314-22 - VM4 Header 2 Valve for TK314 product,XVCW[030
+XV319-21 - TK319 (New Mixer) connection on VM4 Header 1,XVCW[031
+XV319-22 - TK319 (New Mixer) connection on VM4 Header 2,XVCW[032
+XV323-21 - TK323 (Mackamine) connection on VM4 Header 1,XVCW[033
+XV323-22 - TK323 (Mackamine) connection on VM4 Header 2,XVCW[034
+XV325-21 - TK325 (Glycerin) connection on VM4 Header 1,XVCW[035
+XV325-22 - TK325 (Glycerin) connection on VM4 Header 2,XVCW[036
+XV343-21 - TK343 (Betaine) connection on VM4 Header 1,XVCW[037
+XV343-22 - TK343 (Betaine) connection on VM4 Header 2,XVCW[038
+XV344-21 - TK344 (Betaine Blend) connection on VM4 Header 1,XVCW[039
+XV344-22 - TK344 (Betaine Blend) connection on VM4 Header 2,XVCW[040
+XV342-21 - TK342 (26% AES) connection on VM4 Header 1,XVCW[041
+XV342-22 - TK342 (26% AES) connection on VM4 Header 2,XVCW[042
+XV315-61 - TK315 (Premix) drain valve on VM4,XVCW[043
+XV313-61 - TK313 (Premix) drain valve on VM4,XVCW[044
+XV314-61 - TK314 (Premix) drain valve on VM4,XVCW[045
+XV343-60 - TK343 (Beataine) sprayball valve,XVCW[046
+XV342-14 - PP342-15 bypass valve,XVCW[047
+XV326-05 - TK326 (Centronium) discharge valve,XVCW[048
+XV326-30 - TK326 (Centronium) inlet valve,XVCW[049
+XV326-60 - TK326 (Centronium) CIP valve,XVCW[052
+XV342-08 - Pump 342-10 bypass valve,XVCW[053
+XV323-08 - Pump 323-10 (TK323 discharge pump) bypass valve,XVCW[054
+XV322-05 - TK322 (Peg 8) Discharge Valve,XVCW[055
+XV326-08 - Pump 326-10 (TK326 Discharge pump) bypass valve,XVCW[056
+XV343-61 - TK343 (Betaine) CIP return valve on VM4,XVCW[058
+XV344-61 - TK344 (Betaine Blend) CIP return valve on VM4,XVCW[059
+XV342-61 - TK342 (26% AES) CIP return valve on VM4,XVCW[060
+XV104-34 - VM4 Header 1 Spiral Clean Valve,XVCW[061
+XV105-34 - VM4 Header 2 Spiral Cleaning Valve,XVCW[062
+XV441-60 - TK441 CIP Sprayball Valve,XVCW[063
+XV442-60 - TK442 CIP Sprayball Valve,XVCW[064
+XV443-60 - TK443 CIP Sprayball Valve,XVCW[065
+XV444-60 - TK444 CIP Sprayball Valve,XVCW[066
+XV445-60 - TK445 CIP Sprayball Valve,XVCW[067
+XV446-60 - TK446 CIP Sprayball Valve,XVCW[068
+XV104-22 - Mixed water inlet valve to VM4 Header 2,XVCW[070
+XV900-21 - Steam supply valve to VM4 Header 1,XVCW[077
+XV900-22 - Steam supply valve to VM4 Header 2,XVCW[078
+XV441-90 - TK441 Jacket hot water supply valve,XVCW[079
+XV442-91 - TK442 Jacket hot water supply valve,XVCW[080
+XV443-90 - TK443 Jacket hot water supply valve,XVCW[081
+XV444-90 - TK444 Jacket hot water supply valve,XVCW[082
+XV445-90 - TK445 Jacket hot water supply valve,XVCW[083
+XV446-90 - TK446 Jacket hot water supply valve,XVCW[084
+XV442-90 - TK442 Jacket glycol shutoff valve,XVCW[086
+XV444-91 - TK444 Jacket glycol shutoff valve,XVCW[088
+XV445-91 - TK445 Jacket glycol shutoff valve,XVCW[089
+XV446-91 - TK446 Jacket glycol shutoff valve,XVCW[090
+XV104-23 - Unloading bay water flush valve on VM4,XVCW[091
+XV323-30 - TK323 (Mackamine) Inlet valve,XVCW[093
+XV324-60 - Transfer Valve for TK324 - Ammonyx LMDO - Ammonyx LMDO Pipe.,XVCW[094
+XV325-30 - TK325 (Glycerin) Inlet Vavle,XVCW[095
+XV441-06 - TK441 Discharge drain valve,XVCW[110
+XV442-06 - TK442 Discharge drain valve,XVCW[111
+XV443-06 - TK443 Discharge drain valve,XVCW[112
+XV444-06 - TK444 Discharge drain valve,XVCW[113
+XV445-06 - TK445 Discharge drain valve,XVCW[114
+XV446-06 - TK445 Discharge drain valve,XVCW[115
+XV343-04 - TK343 (Betaine) discharge valve to VM4,XVCW[119
+XV343-14 - Pump 343-14 CIP bypass valve,XVCW[120
+XV315-05 - TK315 (Premix) discharge valve,XVCW[126
+XV315-93 - TK315 (Premix) hot water supply valve to jacket,XVCW[127
+XV315-92 - TK315 (premix) cold water supply valve to jacket,XVCW[128
+XV315-91 - TK315 (Premix) Hot water return valve,XVCW[129
+XV315-90 - TK315 (Premix) jacket cold water return valve,XVCW[130
+XV315-12 - TK315 (Premix) mixed water inlet (Sprayball) valve,XVCW[131
+XV315-13 - TK315 (Premix) cold water supply inlet valve,XVCW[132
+XV315-11 - TK315 transfer valve from Weigh Tank 308,XVCW[133
+"XV315-SP1 - Transfer valve on TK315 - this valve is no longer in use, but remains connected to the tank",XVCW[134
+"XV315-SP2 - Transfer valve on TK315 - this valve is no longer in use, but remains connected to the tank",XVCW[135
+"XV315-SP3 - Transfer valve on TK315 - this valve is no longer in use, but remains connected to the tank",XVCW[136
+XV314-05 - TK314 (Premix) discharge valve,XVCW[137
+XV314-93 - TK314 (Premix) jacket hot water inlet valve,XVCW[138
+XV314-92 - TK314 (Premix) jacket cold water supply valve,XVCW[139
+XV314-91 - TK314 (Premix) jacket hot water return valve,XVCW[140
+XV314-90 - TK314 (Premix) jacket cold water return valve,XVCW[141
+XV314-12 - TK314 (Premix) mixed water inlet (sprayball) valve,XVCW[142
+XV314-13 - TK314 (Premix) cold water inlet valve,XVCW[143
+XV314-11 - TK314 (premix) transfer valve from Weigh Tank 307,XVCW[144
+"XV314-SP1 - Transfer valve on TK314 - this valve is no longer in use, but remains connected to the tank",XVCW[145
+"XV314-SP2 - Transfer valve on TK314 - this valve is no longer in use, but remains connected to the tank",XVCW[146
+"XV314-SP3 - Transfer valve on TK314 - this valve is no longer in use, but remains connected to the tank",XVCW[147
+XV313-05 - TK313 discharge valve,XVCW[148
+XV313-93 - TK313 (Premix) jacket hot water supply valve,XVCW[149
+XV313-92 - TK313 (Premix) jacket cold water supply valve,XVCW[150
+XV313-91 - TK313 (Premix) jacket hot water return valve,XVCW[151
+XV313-90 - TK313 (Premix) javket cold water return valve,XVCW[152
+XV313-12 - TK313 (Premix) mixed water inlet (sprayball) valve,XVCW[153
+XV313-13 - TK313 (premix) cold water inlet valve,XVCW[154
+XV313-11 - TK313 (Premix) transfer valve from weigh tank 306,XVCW[155
+"XV313-SP1 - Transfer valve on TK313 - this valve is no longer in use, but remains connected to the tank",XVCW[156
+"XV313-SP2 - Transfer valve on TK313 - this valve is no longer in use, but remains connected to the tank",XVCW[157
+"XV313-SP3 - Transfer valve on TK313 - this valve is no longer in use, but remains connected to the tank",XVCW[158
+XV306-13 - TK306 (Weigh Tank) cold water inlet valve,XVCW[159
+XV307-13 - TK307 (Weigh Tank) cold water inlet valve,XVCW[160
+XV308-13 - TK308 (Weigh Tank) cold water inlet valve,XVCW[161
+XV319-61 - TK319 (New Blender) drain valve on VM4,XVCW[162
+XV326-21 - TK326 (Centronium) transfer valve on VM4 Header 1,XVCW[163
+XV326-22 - TK326 (Centronium) transfer valve on VM4 Header 2,XVCW[164
+XV326-61 - TK326 (Centronium) CIP return valve on VM4,XVCW[165
+XV308-12 - MIxed water inlet (sprayball) valve to Weigh Tank TK308,XVCW[166
+XV307-12 - MIxed water inlet (sprayball) valve to Weigh Tank TK307,XVCW[167
+XV306-12 - MIxed water inlet (sprayball) valve to Weigh Tank TK306,XVCW[168
+XV344-05 - TK344 (Betaine Blend) discharge valve,XVCW[169
+XV344-30 - TK344 (Betaine Blend) inlet valve - from offloading,XVCW[170
+XV344-60 - Transfer Valve for TK344 - Beatine Blend - CIP Process Pipe.,XVCW[171
+XV309-13 - Cold water inlet valve to TK319 (New Mixer),XVCW[173
+XV309-12 - Mixed water inlet valve to TK319 (New Mixer),XVCW[174
+XV319-90 - Transfer Valve for TK319 - Premix - Mixer TK319 Pipe.,XVCW[176
+XV324-21 - TK324 (LMDO) transfer valve to VM4 Header 1,XVCW[185
+XV324-22 - TK324 (LMDO) transfer valve to VM4 Header 2,XVCW[186
+XV203-21 - T203 (BKC) transfer valve to VM4 Header 1,XVCW[187
+XV203-22 - T203 (BKC) transfer valve to VM4 Header 2,XVCW[188
+XV202-21 - T202 (SFES) transfer valve to VM4 Header 1,XVCW[189
+XV202-22 - T202 (SFES) transfer valve to VM4 Header 2,XVCW[190
+XV203-16 - T203 (BKC) tansfer valve to VM4. Also functions as diverter valve for cold water supply to VM4,XVCW[191
+XV204-21 - T204 (DMDM) transfer valve to VM4 Header 1,XVCW[193
+XV204-22 - T204 (DMDM) transfer valve to VM4 Header 2,XVCW[194
+XV322-08 - Pump 323-08 bypass valve,XVCW[195
+XV322-30 - TK322 (Peg 8) inlet valve,XVCW[196
+XV324-08 - Transfer Valve for TK324 - Ammonyx LMDO - Ammonyx LMDO Pipe.,XVCW[198
+XV325-08 - Pump 325-10 bypass valve,XVCW[200
+XV342-29 - TK342 (26% AES) CIP valve,XVCW[202
+XV342-30 - TK342 Inlet valve,XVCW[203
+XV342-60 - TK342 (26%AES) sprayball valve,XVCW[204
+XV343-05 - TK343 (Betaine) discharge valve to BW mainfolds,XVCW[206
+XV343-08 - Pump 343-10 CIP bypass valve,XVCW[207
+XV501-05 - TK501 Discharge valve,XVCW[208
+XV501-06 - TK501 Discharge drain valve,XVCW[208
+XV501-30 - TK501 Inlet Valve,XVCW[210
+XV501-31 - TK501 Inlet Drain valve,XVCW[211
+XV501-60 - ,XVCW[212
+XV502-05 - TK502 Discharge Valve,XVCW[215
+XV502-30 - TK502 Inlet valve,XVCW[217
+XV502-31 - TK502 Inlet drain valve,XVCW[218
+XV502-60 - TK502 Sprayball valve,XVCW[219
+XV441-61 - Transfer Valve for VM-1 - Batch Tank TK441 Pipe.,XVCW[242
+XV442-61 - Transfer Valve for VM-1 - Batch Tank TK442 Pipe.,XVCW[244
+XV443-61 - Transfer Valve for VM-1 - Batch Tank TK443 Pipe.,XVCW[245
+XV444-61 - Transfer Valve for VM-1 - Batch Tank TK444 Pipe.,XVCW[246
+XV445-61 - Transfer Valve for VM-1 - Batch Tank TK445 Pipe.,XVCW[247
+XV446-61 - Transfer Valve for VM-1 - Batch Tank TK446 Pipe.,XVCW[248
+XV100-11 - Transfer Valve for VM-3 - Potable Water Pipe.,XVCW[249
+XV100-12 - Transfer Valve for VM-3 - Potable Water Pipe.,XVCW[250
+XV100-13 - Transfer Valve for VM-3 - Potable Water Pipe.,XVCW[251
+XV100-34 - Transfer Valve for Tri Blender - Cold Water Pipe.,XVCW[252
+XV100-92 - Transfer Valve for Water Supply Exchanger System - Hot Water Pipe.,XVCW[253
+XV100-93 - Transfer Valve for Water Supply Exchanger System - Steam Pipe.,XVCW[254
+XV100-97 - Steam inlet valve for hot water recirc heat exhanger,XVCW[255
+XV100-98 - Hot water recirculation valve,XVCW[256
+XV102-71 - Transfer Valve for VM-6 - CIP - Hot Water Pipe.,XVCW[257
+XV102-72 - Transfer Valve for VM-6 - CIP - Hot Water Pipe.,XVCW[258
+XV102-77 - Transfer Valve for VM-6 - CIP - Hot Water Pipe.,XVCW[259
+XV102-81 - Transfer Valve for VM-6 - CIP - Hot Water Pipe.,XVCW[260
+XV102-82 - Transfer Valve for VM-6 - CIP - Hot Water Pipe.,XVCW[261
+XV102-87 - Transfer Valve for VM-6 - CIP - Hot Water Pipe.,XVCW[262
+XV203-15 - Transfer Valve for VM-4 - Hot Water Pipe.,XVCW[263
+XV204-11 - Transfer Valve for VM-3 - DMDM Pipe.,XVCW[264
+XV204-12 - Transfer Valve for VM-3 - DMDM Pipe.,XVCW[265
+XV204-13 - Transfer Valve for VM-3 - DMDM Pipe.,XVCW[266
+XV205-11 - Transfer Valve for VM-3 - Spare Pipe.,XVCW[267
+XV205-12 - Transfer Valve for VM-3 - Spare Pipe.,XVCW[268
+XV205-13 - Transfer Valve for VM-3 - Spare Pipe.,XVCW[269
+XV205-21 - Transfer Valve for VM-4 - Spare Pipe.,XVCW[270
+XV205-22 - Transfer Valve for VM-4 - Spare Pipe.,XVCW[271
+XV206-11 - Transfer Valve for VM-3 - ANTIL-200 Pipe.,XVCW[272
+XV206-12 - Transfer Valve for VM-3 - ANTIL-200 Pipe.,XVCW[273
+XV206-13 - Transfer Valve for VM-3 - ANTIL-200 Pipe.,XVCW[274
+XV207-11 - Transfer Valve for VM-3 - Poly-7 Pipe.,XVCW[275
+XV207-12 - Transfer Valve for VM-3 - Poly-7 Pipe.,XVCW[276
+XV207-13 - Transfer Valve for VM-3 - Poly-7 Pipe.,XVCW[277
+XV208-11 - Transfer Valve for VM-3 - Carbopol Pipe.,XVCW[278
+XV208-12 - Transfer Valve for VM-3 - Carbopol Pipe.,XVCW[279
+XV208-13 - Transfer Valve for VM-3 - Carbopol Pipe.,XVCW[280
+XV219-11 - Transfer Valve for VM-3 - Brine Pipe.,XVCW[282
+XV219-12 - Transfer Valve for VM-3 - Brine Pipe.,XVCW[283
+XV219-13 - Transfer Valve for VM-3 - Brine Pipe.,XVCW[284
+XV301-05 - Transfer Valve for TK301 - Weigh - Weigh Tank TK301 Pipe.,XVCW[285
+XV301-11 - Transfer Valve for VM-3 - Weigh Tank TK301 Pipe.,XVCW[286
+XV301-12 - Transfer Valve for VM-3 - Weigh Tank TK301 Pipe.,XVCW[287
+XV301-13 - Transfer Valve for VM-3 - Weigh Tank TK301 Pipe.,XVCW[288
+XV301-15 - Transfer Valve for TK301 - Weigh - Weigh Tank TK301 Pipe.,XVCW[289
+XV301-60 - Transfer Valve for TK301 - Weigh - CIP Process Pipe.,XVCW[290
+XV301-70 - Transfer Valve for TK301 - Weigh - Hot Water Pipe.,XVCW[291
+XV301-85 - Transfer Valve for VM-3 - Weigh Tank TK301 Pipe.,XVCW[292
+XV302-05 - Transfer Valve for TK302 - Weigh - Weigh Tank TK302 Pipe.,XVCW[293
+XV302-11 - Transfer Valve for VM-3 - Weigh Tank TK302 Pipe.,XVCW[294
+XV302-15 - Transfer Valve for TK302 - Weigh - Weigh Tank TK302 Pipe.,XVCW[295
+XV302-60 - Transfer Valve for TK302 - Weigh - CIP Process Pipe.,XVCW[296
+XV302-70 - Transfer Valve for TK302 - Weigh - Hot Water Pipe.,XVCW[297
+XV302-85 - Transfer Valve for VM-3 - Weigh Tank TK302 Pipe.,XVCW[298
+XV303-05 - Transfer Valve for TK303 - Weigh - Weigh Tank TK303 Pipe.,XVCW[299
+XV303-12 - Transfer Valve for VM-3 - Weigh Tank TK303 Pipe.,XVCW[300
+XV303-15 - Transfer Valve for TK303 - Weigh - Weigh Tank TK303 Pipe.,XVCW[301
+XV303-60 - Transfer Valve for TK303 - Weigh - CIP Process Pipe.,XVCW[302
+XV303-70 - Transfer Valve for TK303 - Weigh - Weigh Tank TK303 Pipe.,XVCW[303
+XV303-85 - Transfer Valve for VM-3 - Weigh Tank TK304 Pipe.,XVCW[304
+XV304-05 - Transfer Valve for TK304 - Weigh - Weigh Tank TK304 Pipe.,XVCW[305
+XV304-13 - Transfer Valve for VM-3 - Weigh Tank TK304 Pipe.,XVCW[306
+XV304-15 - Transfer Valve for TK304 - Weigh - Weigh Tank TK304 Pipe.,XVCW[307
+XV304-60 - Transfer Valve for TK304 - Weigh - CIP Process Pipe.,XVCW[308
+XV304-70 - Transfer Valve for TK304 - Weigh - Hot Water Pipe.,XVCW[309
+XV304-85 - Transfer Valve for VM-3 - Weigh Tank TK304 Pipe.,XVCW[310
+XV312-11 - Transfer Valve for VM-3 - NaOH Pipe.,XVCW[311
+XV312-12 - Transfer Valve for VM-3 - NaOH Pipe.,XVCW[312
+XV312-13 - Transfer Valve for VM-3 - NaOH Pipe.,XVCW[313
+XV319-05 - Transfer Valve for TK319 - Premix - Mixer TK319 Pipe.,XVCW[314
+XV322-11 - Transfer Valve for VM-3 - PEG 8 Pipe.,XVCW[316
+XV322-12 - Transfer Valve for VM-3 - PEG 8 Pipe.,XVCW[317
+XV322-13 - Transfer Valve for VM-3 - PEG 8 Pipe.,XVCW[318
+XV325-11 - Transfer Valve for VM-3 - Glycerin Pipe.,XVCW[319
+XV325-12 - Transfer Valve for VM-3 - Glycerin Pipe.,XVCW[320
+XV325-13 - Transfer Valve for VM-3 - Glycerin Pipe.,XVCW[321
+XV329-11 - Transfer Valve for VM-3 - Celquat Pipe.,XVCW[322
+XV329-12 - Transfer Valve for VM-3 - Celquat Pipe.,XVCW[323
+XV329-13 - Transfer Valve for VM-3 - Celquat Pipe.,XVCW[324
+XV342-11 - Transfer Valve for VM-3 - 26% AES Pipe.,XVCW[325
+XV342-12 - Transfer Valve for VM-3 - 26% AES Pipe.,XVCW[326
+XV342-13 - Transfer Valve for VM-3 - 26% AES Pipe.,XVCW[327
+XV343-11 - Transfer Valve for VM-3 - Betaine Pipe.,XVCW[328
+XV343-12 - Transfer Valve for VM-3 - Betaine Pipe.,XVCW[329
+XV343-13 - Transfer Valve for VM-3 - Betaine Pipe.,XVCW[330
+XV344-11 - Transfer Valve for VM-3 - Spare Pipe.,XVCW[331
+XV344-12 - Transfer Valve for VM-3 - Spare Pipe.,XVCW[332
+XV344-13 - Transfer Valve for VM-3 - Spare Pipe.,XVCW[333
+XV441-21 - Transfer Valve for VM-4 - Batch Tank TK441 Pipe.,XVCW[335
+XV441-22 - Transfer Valve for VM-4 - Batch Tank TK441 Pipe.,XVCW[336
+XV441-5A - Transfer Valve for VM-1 - Batch Tank TK441 Pipe.,XVCW[337
+XV441-5B - Transfer Valve for VM-1 - Batch Tank TK441 Pipe.,XVCW[338
+XV441-69 - Transfer Valve for TK441 - CIP Process Pipe.,XVCW[339
+XV441-F6 - Transfer Valve for VM-1 - Batch Tank TK441 Pipe.,XVCW[340
+XV441-PL - Transfer Valve for TK441 - Batch Tank TK441 Pipe.,XVCW[341
+XV442-21 - Transfer Valve for VM-4 - Batch Tank TK442 Pipe.,XVCW[342
+XV442-22 - Transfer Valve for VM-4 - Batch Tank TK442 Pipe.,XVCW[343
+XV442-5A - Transfer Valve for VM-1 - Batch Tank TK442 Pipe.,XVCW[344
+XV442-5B - Transfer Valve for VM-1 - Batch Tank TK442 Pipe.,XVCW[345
+XV442-69 - Transfer Valve for TK442 - CIP Process Pipe.,XVCW[346
+XV442-F6 - Transfer Valve for VM-1 - Batch Tank TK442 Pipe.,XVCW[347
+XV442-PL - Transfer Valve for TK442 - Batch Tank TK442 Pipe.,XVCW[348
+XV443-21 - Transfer Valve for VM-4 - Batch Tank TK443 Pipe.,XVCW[349
+XV443-22 - Transfer Valve for VM-4 - Batch Tank TK443 Pipe.,XVCW[350
+XV443-5A - Transfer Valve for VM-1 - Batch Tank TK443 Pipe.,XVCW[351
+XV443-5B - Transfer Valve for VM-1 - Batch Tank TK443 Pipe.,XVCW[352
+XV443-69 - Transfer Valve for TK443 - CIP Process Pipe.,XVCW[353
+XV443-F6 - Transfer Valve for VM-1 - Batch Tank TK443 Pipe.,XVCW[354
+XV443-PL - Transfer Valve for TK443 - Batch Tank TK443 Pipe.,XVCW[355
+XV444-21 - Transfer Valve for VM-4 - Batch Tank TK444 Pipe.,XVCW[356
+XV444-22 - Transfer Valve for VM-4 - Batch Tank TK444 Pipe.,XVCW[357
+XV444-5A - Transfer Valve for VM-1 - Batch Tank TK444 Pipe.,XVCW[358
+XV444-5B - Transfer Valve for VM-1 - Batch Tank TK444 Pipe.,XVCW[359
+XV444-69 - Transfer Valve for TK444 - Batch Tank TK444 Pipe.,XVCW[360
+XV444-F6 - Transfer Valve for VM-1 - Batch Tank TK444 Pipe.,XVCW[361
+XV444-PL - Transfer Valve for TK444 - Batch Tank TK444 Pipe.,XVCW[362
+XV445-21 - Transfer Valve for VM-4 - Batch Tank TK445 Pipe.,XVCW[363
+XV445-22 - Transfer Valve for VM-4 - Batch Tank TK445 Pipe.,XVCW[364
+XV445-5A - Transfer Valve for VM-1 - Batch Tank TK445 Pipe.,XVCW[365
+XV445-5B - Transfer Valve for VM-1 - Batch Tank TK445 Pipe.,XVCW[366
+XV445-69 - Transfer Valve for TK445 - Batch Tank TK445 Pipe.,XVCW[367
+XV445-F6 - Transfer Valve for VM-1 - Batch Tank TK445 Pipe.,XVCW[368
+XV445-PL - Transfer Valve for TK445 - Batch Tank TK445 Pipe.,XVCW[369
+XV446-21 - Transfer Valve for VM-4 - Batch Tank TK446 Pipe.,XVCW[370
+XV446-22 - Transfer Valve for VM-4 - Batch Tank TK446 Pipe.,XVCW[371
+XV446-5A - Transfer Valve for VM-1 - Batch Tank TK446 Pipe.,XVCW[372
+XV446-5B - Transfer Valve for VM-1 - Batch Tank TK446 Pipe.,XVCW[373
+XV446-69 - Transfer Valve for TK446 - Batch Tank TK446 Pipe.,XVCW[374
+XV446-F6 - Transfer Valve for VM-1 - Batch Tank TK446 Pipe.,XVCW[375
+XV446-PL - Transfer Valve for TK446 - Batch Tank TK446 Pipe.,XVCW[376
+XV500-11 - Transfer Valve for VM-2 - CIP Process Pipe.,XVCW[377
+XV500-12 - Transfer Valve for VM-2 - CIP Process Pipe.,XVCW[378
+XV500-13 - Transfer Valve for VM-2 - CIP Process Pipe.,XVCW[379
+XV500-14 - Transfer Valve for VM-2 - Batch Tank TK501 Pipe.,XVCW[380
+XV500-21 - Transfer Valve for VM-4 - Batch Tank TK501 Pipe.,XVCW[381
+XV500-22 - Transfer Valve for VM-4 - Drain Pipe.,XVCW[382
+XV501-11 - Transfer Valve for VM-2 - Batch Tank TK501 Pipe.,XVCW[383
+XV501-12 - Transfer Valve for VM-2 - Batch Tank TK501 Pipe.,XVCW[384
+XV501-13 - Transfer Valve for VM-2 - Batch Tank TK501 Pipe.,XVCW[385
+XV501-14 - Transfer Valve for VM-2 - Batch Tank TK501 Pipe.,XVCW[386
+XV501-5B - Transfer Valve for VM-1 - Batch Tank TK501 Pipe.,XVCW[387
+XV501-5C - Transfer Valve for VM-1 - Batch Tank TK501 Pipe.,XVCW[388
+XV501-61 - Transfer Valve for VM-1 - Batch Tank TK501 Pipe.,XVCW[389
+XV501-62 - Transfer Valve for VM-1 - Batch Tank TK501 Pipe.,XVCW[390
+XV501-F6 - Transfer Valve for VM-1 - Batch Tank TK501 Pipe.,XVCW[391
+XV501-PL - Transfer Valve for TK501 - Batch Tank TK501 Pipe.,XVCW[392
+XV502-11 - Transfer Valve for VM-2 - Batch Tank TK502 Pipe.,XVCW[393
+XV502-12 - Transfer Valve for VM-2 - Batch Tank TK502 Pipe.,XVCW[394
+XV502-13 - Transfer Valve for VM-2 - Batch Tank TK502 Pipe.,XVCW[395
+XV502-14 - Transfer Valve for VM-2 - Batch Tank TK502 Pipe.,XVCW[396
+XV502-5B - Transfer Valve for VM-1 - Batch Tank TK502 Pipe.,XVCW[397
+XV502-5C - Transfer Valve for VM-1 - Batch Tank TK502 Pipe.,XVCW[398
+XV502-61 - Transfer Valve for VM-1 - Batch Tank TK502 Pipe.,XVCW[399
+XV502-62 - Transfer Valve for VM-1 - Batch Tank TK502 Pipe.,XVCW[400
+XV502-F6 - Transfer Valve for VM-1 - Batch Tank TK502 Pipe.,XVCW[401
+XV502-PL - Transfer Valve for TK502 - Batch Tank TK502 Pipe.,XVCW[402
+XV504-05 - Transfer Valve for TK504 - Batch Tank TK502 Pipe.,XVCW[403
+XV504-06 - Transfer Valve for TK504 - Batch Tank TK504 Pipe.,XVCW[404
+XV504-11 - Transfer Valve for VM-2 - Batch Tank TK504 Pipe.,XVCW[405
+XV504-12 - Transfer Valve for VM-2 - Batch Tank TK504 Pipe.,XVCW[406
+XV504-13 - Transfer Valve for VM-2 - Batch Tank TK504 Pipe.,XVCW[407
+XV504-14 - Transfer Valve for VM-2 - Batch Tank TK504 Pipe.,XVCW[408
+XV504-30 - Transfer Valve for TK504 - Batch Tank TK504 Pipe.,XVCW[409
+XV504-31 - Transfer Valve for TK504 - Batch Tank TK504 Pipe.,XVCW[410
+XV504-5A - Transfer Valve for VM-1 - Batch Tank TK504 Pipe.,XVCW[411
+XV504-5B - Transfer Valve for VM-1 - Batch Tank TK504 Pipe.,XVCW[412
+XV504-5C - Transfer Valve for VM-1 - Batch Tank TK504 Pipe.,XVCW[413
+XV504-60 - Transfer Valve for TK504 - CIP Process Pipe.,XVCW[414
+XV504-61 - Transfer Valve for VM-1 - Batch Tank TK504 Pipe.,XVCW[415
+XV504-62 - Transfer Valve for VM-1 - Batch Tank TK504 Pipe.,XVCW[416
+XV504-63 - Transfer Valve for TK504 - CIP Process Pipe.,XVCW[417
+XV504-90 - Transfer Valve for TK504 - Cold Water Supply Pipe.,XVCW[418
+XV504-91 - Transfer Valve for TK504 - Steam Pipe.,XVCW[419
+XV504-F6 - Transfer Valve for VM-1 - Batch Tank TK504 Pipe.,XVCW[420
+XV505-05 - Transfer Valve for TK505 - Batch Tank TK505 Pipe.,XVCW[421
+XV505-06 - Transfer Valve for TK505 - Batch Tank TK505 Pipe.,XVCW[422
+XV505-11 - Transfer Valve for VM-2 - Batch Tank TK505 Pipe.,XVCW[423
+XV505-12 - Transfer Valve for VM-2 - Batch Tank TK505 Pipe.,XVCW[424
+XV505-13 - Transfer Valve for VM-2 - Batch Tank TK505 Pipe.,XVCW[425
+XV505-14 - Transfer Valve for VM-2 - Batch Tank TK505 Pipe.,XVCW[426
+XV505-30 - Transfer Valve for TK505 - Batch Tank TK505 Pipe.,XVCW[427
+XV505-31 - Transfer Valve for TK505 - Batch Tank TK505 Pipe.,XVCW[428
+XV505-5A - Transfer Valve for VM-1 - Batch Tank TK505 Pipe.,XVCW[429
+XV505-5B - Transfer Valve for VM-1 - Batch Tank TK505 Pipe.,XVCW[430
+XV505-5C - Transfer Valve for VM-1 - Batch Tank TK505 Pipe.,XVCW[431
+XV505-60 - Transfer Valve for TK505 - CIP Process Pipe.,XVCW[432
+XV505-61 - Transfer Valve for VM-1 - CIP Process Pipe.,XVCW[433
+XV505-62 - Transfer Valve for VM-1 - Batch Tank TK505 Pipe.,XVCW[434
+XV505-63 - Transfer Valve for TK505 - CIP Process Pipe.,XVCW[435
+XV505-90 - Transfer Valve for TK505 - Batch Tank TK505 Pipe.,XVCW[436
+XV505-91 - Transfer Valve for TK505 - Batch Tank TK505 Pipe.,XVCW[437
+XV505-F6 - Transfer Valve for VM-1 - Batch Tank TK505 Pipe.,XVCW[438
+XV506-05 - Transfer Valve for TK506 - Batch Tank TK505 Pipe.,XVCW[439
+XV506-06 - Transfer Valve for TK506 - Batch Tank TK506 Pipe.,XVCW[440
+XV506-11 - Transfer Valve for VM-2 - Batch Tank TK506 Pipe.,XVCW[441
+XV506-12 - Transfer Valve for VM-2 - Batch Tank TK506 Pipe.,XVCW[442
+XV506-13 - Transfer Valve for VM-2 - Batch Tank TK506 Pipe.,XVCW[443
+XV506-14 - Transfer Valve for VM-2 - Batch Tank TK506 Pipe.,XVCW[444
+XV506-30 - Transfer Valve for TK506 - Batch Tank TK506 Pipe.,XVCW[445
+XV506-31 - Transfer Valve for TK506 - Batch Tank TK506 Pipe.,XVCW[446
+XV506-5B - Transfer Valve for VM-1 - Batch Tank TK506 Pipe.,XVCW[447
+XV506-5C - Transfer Valve for VM-1 - Batch Tank TK506 Pipe.,XVCW[448
+XV506-60 - Transfer Valve for TK506 - CIP Process Pipe.,XVCW[449
+XV506-61 - Transfer Valve for VM-1 - CIP Process Pipe.,XVCW[450
+XV506-62 - Transfer Valve for VM-1 - Batch Tank TK506 Pipe.,XVCW[451
+XV506-63 - Transfer Valve for TK506 - CIP Process Pipe.,XVCW[452
+XV506-90 - Transfer Valve for TK506 - Cold Water Supply Pipe.,XVCW[453
+XV506-91 - Transfer Valve for TK506 - Steam Pipe.,XVCW[454
+XV506-F6 - Transfer Valve for VM-1 - Batch Tank TK506 Pipe.,XVCW[455
+XV600-5A - Transfer Valve for VM-1 - Filter Flush Pipe.,XVCW[456
+XV600-5B - Transfer Valve for VM-1 - Filter Flush Pipe.,XVCW[457
+XV600-5C - Transfer Valve for VM-1 - Filter Flush Pipe.,XVCW[458
+XV600-F6 - Transfer Valve for VM-1 - Filter Flush Pipe.,XVCW[465
+XV601-05 - Transfer Valve for CIP System - CIP Prep Pipe.,XVCW[466
+XV601-11 - TK601 NaOH Inlet Valve,XVCW[467
+XV601-12 - HX601 Steam Inlet Valve,XVCW[468
+XV601-16 - TK601 Drain Valve,XVCW[469
+XV601-21 - Transfer Valve for VM-6 - CIP - CIP Transfer Pipe.,XVCW[470
+XV601-22 - Transfer Valve for VM-6 - CIP - CIP Transfer Pipe.,XVCW[471
+XV601-23 - Transfer Valve for VM-6 - CIP - CIP Transfer Pipe.,XVCW[472
+XV601-24 - Transfer Valve for VM-6 - CIP - CIP Transfer Pipe.,XVCW[473
+XV601-25 - Transfer Valve for VM-6 - CIP - CIP Transfer Pipe.,XVCW[474
+XV601-26 - Transfer Valve for VM-6 - CIP - CIP Transfer Pipe.,XVCW[475
+XV601-5A - Transfer Valve for VM-1 - CIPS Flush Header Pipe 2.,XVCW[476
+XV601-5B - Transfer Valve for VM-1 - CIPS Flush Header Pipe 2.,XVCW[477
+XV601-5C - Transfer Valve for VM-1 - CIPS Flush Header Pipe 2.,XVCW[478
+XV601-61 - Transfer Valve for Tri Blender - CIP Transfer Pipe.,XVCW[479
+XV601-62 - Transfer Valve for Tri Blender - CIP Transfer Pipe.,XVCW[480
+XV601-64 - Transfer Valve for Tri Blender - CIP Process Pipe.,XVCW[481
+XV601-70 - Cold Water inlet valve TK601,XVCW[482
+XV601-71 - Transfer Valve for TK601  - CIP - Hot Water Pipe.,XVCW[483
+XV601-72 - Transfer Valve for TK601  - CIP - Hot Water Pipe.,XVCW[484
+XV601-81 - Transfer Valve for VM-5 - CIP - CIP Transfer Pipe.,XVCW[485
+XV601-82 - Transfer Valve for VM-5 - CIP - CIP Transfer Pipe.,XVCW[486
+XV601-83 - Transfer Valve for VM-5 - CIP - CIP Transfer Pipe.,XVCW[487
+XV601-84 - Transfer Valve for VM-5 - CIP - CIP Transfer Pipe.,XVCW[488
+XV601-85 - Transfer Valve for VM-5 - CIP - CIP Transfer Pipe.,XVCW[489
+XV601-86 - Transfer Valve for VM-5 - CIP - CIP Transfer Pipe.,XVCW[490
+XV601-91 - Cold Water Supply Valve for return heat exchanger for TK601,XVCW[491
+XV601-92 - Cold Water Supply Valve for return heat exchanger for TK602,XVCW[492
+XV601-93 - Transfer Valve for CIP System - Cold Water Supply Pipe.,XVCW[493
+XV601-97 - Transfer Valve for CIP System - CIP Prep Pipe.,XVCW[494
+XV601-98 - Transfer Valve for CIP System - CIP Prep Pipe.,XVCW[495
+XV601-F6 - Transfer Valve for VM-1 - CIPS Flush Header Pipe 2.,XVCW[496
+XV602-05 - Transfer Valve for CIP System - CIP Prep Pipe.,XVCW[497
+XV602-11 - Transfer Valve for CIP System - NaOH Pipe.,XVCW[498
+XV602-12 - HX602 Steam Inlet Valve,XVCW[499
+XV602-16 - Transfer Valve for CIP System - CIP Drain Pipe.,XVCW[500
+XV602-21 - Transfer Valve for VM-6 - CIP - CIP Transfer Pipe.,XVCW[501
+XV602-22 - Transfer Valve for VM-6 - CIP - CIP Transfer Pipe.,XVCW[502
+XV602-23 - Transfer Valve for VM-6 - CIP - CIP Transfer Pipe.,XVCW[503
+XV602-24 - Transfer Valve for VM-6 - CIP - CIP Transfer Pipe.,XVCW[504
+XV602-25 - Transfer Valve for VM-6 - CIP - CIP Transfer Pipe.,XVCW[505
+XV602-5A - Transfer Valve for VM-1 - CIPS Flush Header Pipe 1.,XVCW[506
+XV602-5B - Transfer Valve for VM-1 - CIPS Flush Header Pipe 1.,XVCW[507
+XV602-5C - Transfer Valve for VM-1 - CIPS Flush Header Pipe 1.,XVCW[508
+XV602-70 - Transfer Valve for TK602 - CIP - Hot Water Pipe.,XVCW[509
+XV602-71 - Transfer Valve for TK602 - CIP - Hot Water Pipe.,XVCW[510
+XV602-72 - Transfer Valve for TK602 - CIP - Hot Water Pipe.,XVCW[511
+XV602-81 - Transfer Valve for VM-5 - CIP - CIP Transfer Pipe.,XVCW[512
+XV602-82 - Transfer Valve for VM-5 - CIP - CIP Transfer Pipe.,XVCW[513
+XV602-83 - Transfer Valve for VM-5 - CIP - CIP Transfer Pipe.,XVCW[514
+XV602-84 - Transfer Valve for VM-5 - CIP - CIP Transfer Pipe.,XVCW[515
+XV602-85 - Transfer Valve for VM-5 - CIP - CIP Transfer Pipe.,XVCW[516
+XV602-86 - Transfer Valve for VM-5 - CIP - CIP Transfer Pipe.,XVCW[517
+XV602-97 - Transfer Valve for CIP System - CIP Prep Pipe.,XVCW[518
+XV602-98 - Transfer Valve for CIP System - CIP Prep Pipe.,XVCW[519
+XV602-F6 - Transfer Valve for VM-1 - CIPS Flush Header Pipe 1.,XVCW[520
+XV603-05 - Transfer Valve for CIP System - CIP Prep Pipe.,XVCW[521
+XV603-11 - Transfer Valve for CIP System - NaOH Pipe.,XVCW[522
+XV603-12 - HX603 Steam Inlet Valve,XVCW[523
+XV603-16 - Transfer Valve for CIP System - CIP Prep Drain Pipe.,XVCW[524
+XV603-21 - Transfer Valve for VM-6 - CIP - CIP Transfer Pipe.,XVCW[525
+XV603-22 - Transfer Valve for VM-6 - CIP - CIP Transfer Pipe.,XVCW[526
+XV603-23 - Transfer Valve for VM-6 - CIP - CIP Transfer Pipe.,XVCW[527
+XV603-24 - Transfer Valve for VM-6 - CIP - CIP Transfer Pipe.,XVCW[528
+XV603-25 - Transfer Valve for VM-6 - CIP - CIP Transfer Pipe.,XVCW[529
+XV603-70 - Transfer Valve for TK603 - CIP - Cold Water Pipe.,XVCW[530
+XV603-71 - Transfer Valve for TK603 - CIP - Cold Water Pipe.,XVCW[531
+XV603-72 - Transfer Valve for TK603 - CIP - Cold Water Pipe.,XVCW[532
+XV603-81 - Transfer Valve for VM-5 - CIP - CIP Transfer Pipe.,XVCW[533
+XV603-82 - Transfer Valve for VM-5 - CIP - CIP Transfer Pipe.,XVCW[534
+XV603-83 - Transfer Valve for VM-5 - CIP - CIP Transfer Pipe.,XVCW[535
+XV603-84 - Transfer Valve for VM-5 - CIP - CIP Transfer Pipe.,XVCW[536
+XV603-85 - Transfer Valve for VM-5 - CIP - CIP Transfer Pipe.,XVCW[537
+XV603-86 - Transfer Valve for VM-5 - CIP - CIP Transfer Pipe.,XVCW[538
+XV603-97 - Transfer Valve for CIP System - CIP Prep Pipe.,XVCW[539
+XV603-98 - Transfer Valve for TK602 - CIP - CIP Prep Pipe.,XVCW[540
+XV604-11 - Transfer Valve for VM-3 - CIP Transfer Pipe.,XVCW[541
+XV604-12 - Transfer Valve for VM-3 - CIP Transfer Pipe.,XVCW[542
+XV604-13 - Transfer Valve for VM-3 - CIP Transfer Pipe.,XVCW[543
+XV605-11 - Transfer Valve for VM-3 - CIP Transfer Pipe.,XVCW[544
+XV605-12 - Transfer Valve for VM-3 - CIP Transfer Pipe.,XVCW[545
+XV605-13 - Transfer Valve for VM-3 - CIP Transfer Pipe.,XVCW[546
+XV802-06 - Transfer Valve for TK5B - Day Tank - Day Tank Pipe.,XVCW[547
+XV802-30 - Transfer Valve for TK5B - Day Tank - Day Tank Pipe.,XVCW[548
+XV802-31 - Transfer Valve for TK5B - Day Tank - CIP Prep Pipe.,XVCW[549
+XV802-32 - Transfer Valve for TK5B - Day Tank - CIP Prep Pipe.,XVCW[550
+XV802-62 - Transfer Valve for TK5B - Day Tank - Day Tank Pipe.,XVCW[551
+XV804-07 - Transfer Valve for TKF6 - Day Tank - Day Tank Pipe.,XVCW[552
+XV804-31 - Transfer Valve for TKF6 - Day Tank - Day Tank Pipe.,XVCW[553
+XV804-61 - Transfer Valve for TKF6 - Day Tank - Day Tank Pipe.,XVCW[554
+XV804-62 - Transfer Valve for TKF6 - Day Tank - Day Tank Pipe.,XVCW[555
+XV804-63 - Transfer Valve for TKF6 - Day Tank - CIP Process Pipe.,XVCW[556
+XV900-11 - Transfer Valve for VM-3 - Steam Pipe.,XVCW[557
+XV900-12 - Transfer Valve for VM-3 - Steam Pipe.,XVCW[558
+XV900-13 - Transfer Valve for VM-3 - Steam Pipe.,XVCW[559
+XV322-60 - TK322 (peg 8) CIP sprayball valve,XVCW[562
+XV324-31 - TK-319 Methocel Mixer Product Pump to VM-4,XVCW[564
+XV341-08 - Pump 341-10 bypass valve,XVCW[566
+XV601-80 - ,XVCW[567
+XV602-80 - ,XVCW[568
+XV603-80 - ,XVCW[569
+XV342-62 - Transfer Valve for TK342 - 26% AES - CIP Process Pipe.,XVCW[571
+XV343-30 - TK343 (Betaine) inlet valve from offloading area,XVCW[575
+XV501-90 - Transfer Valve for TK501 - Cold Water Return Pipe.,XVCW[577
+XV502-06 - TK502 Discharge drain valve,XVCW[578
+XV502-90 - Transfer Valve for TK502 - Batch Tank TK502 Pipe.,XVCW[582
+XV502-91 - TK502 Jacket steam valve,XVCW[583
+XV515 - SLES Dilution skid / TK342 inlet drain valve,XVCW[584
+XV516 - Preservative (T204 - DMDM) inlet to the Dilution skid,XVCW[585
+XV608 - Hot water inlet valve to dilution skid,XVCW[586
+XV609 - Dilution Skid CIP drain valve,XVCW[587
+XV610 - CIP inlet valve for dilution skid,XVCW[588
+XV611 - Transfer Valve for SLES Dilution Skid - CIP Process Pipe.,XVCW[589
+XV614 - 70% AES inlet pipe valve to dilution skid,XVCW[590
+XV802-07 - Filler 5B Day Tank drain valve,XVCW[591
+XV803-06 - Filler 5C day tank discharge valve,XVCW[592
+XV803-07 - Filler 5C day tank discharge drain valve,XVCW[593
+XV803-31 - Filler 5c CIP drain valve,XVCW[594
+XV803-32 - Filler 5c tray CIP drain/return valve,XVCW[595
+XV803-61 - FIller 5c day tank CIP return valve,XVCW[596
+XV803-62 - Filler 5c Day tank sprayball valve,XVCW[597
+XV911 - Transfer Valve for SLES Dilution Skid - Steam Pipe.,XVCW[598
